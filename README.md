@@ -9,12 +9,12 @@
   <a href="https://supermanbanny.atabook.org">
     <img src="https://img.shields.io/badge/✦%20Atabook-dceeff?style=for-the-badge&logo=bookstack&logoColor=white">
   </a>
-  <a href="https://bannysuperman.straw.page">
+  <a href="https://bannysupermann.straw.page">
     <img src="https://img.shields.io/badge/✧%20Strawpage-a9d6ff?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
 </p>
 
-ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜱᴛɪʟʟ ᴡɪᴘ ꜰᴏʀ ɴᴏᴡ! ʟᴏʟ ɪᴛꜱ ᴀʙᴏᴜᴛ ꜱɪʟʟʏ ꜰᴀɴᴀʀᴛꜱ ʀɴ <3 
+ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜱᴛɪʟʟ ᴡɪᴘ ꜰᴏʀ ɴᴏᴡ!
 <p align="center">
   <img src="https://i.postimg.cc/xj4HxjTM/In-Shot-20260724-223807084.jpg" width="100%">
 </p>
