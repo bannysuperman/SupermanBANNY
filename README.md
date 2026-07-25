@@ -14,7 +14,8 @@
   </a>
 </p>
 
-ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜱᴛɪʟʟ ᴡɪᴘ ꜰᴏʀ ɴᴏᴡ!
+ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ꜱᴛɪʟʟ ᴡɪᴘ ꜰᴏʀ ɴᴏᴡ! 
+![Badge](https://img.shields.io/badge/HOPE_LEVEL-100%25-a9d6ff?style=for-the-badge&labelColor=2b2b2b) 
 <p align="center">
   <img src="https://i.postimg.cc/xj4HxjTM/In-Shot-20260724-223807084.jpg" width="100%">
 </p>
