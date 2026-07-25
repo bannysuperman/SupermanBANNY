@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.postimg.cc/yxtrFnXx/In-Shot-20260725-032012722.png" width="100%">
-</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=50&pause=1200&color=a9d6ff&center=true&vCenter=true&width=900&lines=Dreams+save+us.;Dreams+lift+us+up.;And+on+my+soul...+I'll+never+stop+fighting.">
 </p>
