@@ -9,7 +9,7 @@
   <a href="https://supermanbanny.atabook.org">
     <img src="https://img.shields.io/badge/✦%20Atabook-dceeff?style=for-the-badge&logo=bookstack&logoColor=white">
   </a>
-  <a href="https://bannysupermann.straw.page">
+  <a href="https://bannysuperman.straw.page">
     <img src="https://img.shields.io/badge/✧%20Strawpage-a9d6ff?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
 </p>
