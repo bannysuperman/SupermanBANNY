@@ -18,9 +18,10 @@
 
 ![Badge](https://img.shields.io/badge/HOPE_LEVEL-100%25-a9d6ff?style=for-the-badge&labelColor=2b2b2b) ![Badge](https://img.shields.io/badge/HEROES_SAVED-∞-a9d6ff?style=for-the-badge) ![Badge](https://img.shields.io/badge/LAST_SON_OF-KRYPTON-a9d6ff?style=for-the-badge) 
 <p align="center">
-  <img src="https://i.postimg.cc/xj4HxjTM/In-Shot-20260724-223807084.jpg" width="100%">
+  <img src="https://i.postimg.cc/RFYT1JM6/ezgif-70f329619c41127a.gif" width="100%">
 </p>
 
+
 <p align="center">
-  <img src="https://i.postimg.cc/hjNTxF8m/1784967544715.png" width="100%">
+  <img src="https://i.postimg.cc/hjNTxF8m/1784967544715.png" width="90%">
 </p>
