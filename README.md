@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<img src="https://i.postimg.cc/6pTCtmpM/1785271442944.png" width="30" alt="Superman"> ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ɪꜱ ꜱᴛɪʟʟ ᴀ ᴡɪᴘ.! 
+<img src="https://i.postimg.cc/6pTCtmpM/1785271442944.png" width="18"> $\color{#a9d6ff}{\textsf{ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ɪꜱ ꜱᴛɪʟʟ ᴀ ᴡɪᴘ.!!}}$ 
 
 ![Badge](https://img.shields.io/badge/HOPE_LEVEL-100%25-a9d6ff?style=for-the-badge&labelColor=2b2b2b) ![Badge](https://img.shields.io/badge/HEROES_SAVED-∞-a9d6ff?style=for-the-badge) ![Badge](https://img.shields.io/badge/LAST_SON_OF-KRYPTON-a9d6ff?style=for-the-badge) 
 <p align="center">
