@@ -16,8 +16,10 @@
 
 $\color{#a9d6ff}{\textsf{[ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ɪꜱ ꜱᴛɪʟʟ ᴀ ᴡɪᴘ.!]}}$ 
 
-<p align="center"> 
-<img src="https://i.postimg.cc/6pTCtmpM/1785271442944.png" width="18"> $\color{#a9d6ff}{\textsf{𝐓𝐡𝐞 𝐂𝐥𝐚𝐫𝐤 𝐊𝐞𝐧𝐭 𝐨𝐟 𝐏𝐨𝐧𝐲𝐓𝐨𝐰𝐧.!!}}$   
+<p align="center">
+  <img src="https://i.postimg.cc/6pTCtmpM/1785271442944.png" width="40">
+</p> 
+<p align="center">$\color{#a9d6ff}{\textsf{𝐓𝐡𝐞 𝑪𝒍𝒂𝒓𝒌 𝑲𝒆𝒏𝒕 𝑶𝒇 𝑷𝒐𝒏𝒚𝑻𝒐𝒘𝒏 !}}$   
 
 [**@pt-contributors**](https://github.com/pt-contributors) • [**@pt-hall-of-media**](https://github.com/pt-hall-of-media)
 
