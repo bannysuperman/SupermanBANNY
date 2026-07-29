@@ -14,9 +14,14 @@
   </a>
 </p>
 
-<img src="https://i.postimg.cc/6pTCtmpM/1785271442944.png" width="18"> $\color{#a9d6ff}{\textsf{ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ɪꜱ ꜱᴛɪʟʟ ᴀ ᴡɪᴘ.!!}}$ 
+$\color{#a9d6ff}{\textsf{[ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ɪꜱ ꜱᴛɪʟʟ ᴀ ᴡɪᴘ.!]}}$ 
 
-![Badge](https://img.shields.io/badge/HOPE_LEVEL-100%25-a9d6ff?style=for-the-badge&labelColor=2b2b2b) ![Badge](https://img.shields.io/badge/HEROES_SAVED-∞-a9d6ff?style=for-the-badge) ![Badge](https://img.shields.io/badge/LAST_SON_OF-KRYPTON-a9d6ff?style=for-the-badge) 
+<p align="center"> 
+<img src="https://i.postimg.cc/6pTCtmpM/1785271442944.png" width="18"> $\color{#a9d6ff}{\textsf{𝐓𝐡𝐞 𝐂𝐥𝐚𝐫𝐤 𝐊𝐞𝐧𝐭 𝐨𝐟 𝐏𝐨𝐧𝐲𝐓𝐨𝐰𝐧.!!}}$   
+
+[@pt-contributors](https://github.com/pt-contributors) • [@pt-hall-of-media](https://github.com/pt-hall-of-media)
+
+  ![Badge](https://img.shields.io/badge/HOPE_LEVEL-100%25-a9d6ff?style=for-the-badge&labelColor=2b2b2b) ![Badge](https://img.shields.io/badge/HEROES_SAVED-∞-a9d6ff?style=for-the-badge) ![Badge](https://img.shields.io/badge/LAST_SON_OF-KRYPTON-a9d6ff?style=for-the-badge) 
 <p align="center">
   <img src="https://i.postimg.cc/RFYT1JM6/ezgif-70f329619c41127a.gif" width="100%">
 </p>
