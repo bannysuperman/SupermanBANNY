@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://i.postimg.cc/wMJdK5ZF/1784928664156.png" width="400"> 
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
+
 <p align="center">
   <a href="https://supermanbanny.atabook.org">
     <img src="https://img.shields.io/badge/✦%20Atabook-dceeff?style=for-the-badge&logo=bookstack&logoColor=white">
@@ -14,8 +17,13 @@
   </a>
 </p>
 
-$\color{#a9d6ff}{\textsf{[ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ɪꜱ ꜱᴛɪʟʟ ᴀ ᴡɪᴘ.!]}}$ 
-$\color{#a9d6ff}{\textsf{ᴘʟᴢ ᴅᴏ ɴᴏᴛ ꜱᴀʏ ɴᴀꜱᴛʏ ꜱᴛᴜꜰꜰ ɪɴ ᴍʏ ᴀᴛᴀ :( ᴛʏ!}}$ 
+$\color{#a9d6ff}{\textsf{- ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ɪꜱ ꜱᴛɪʟʟ ᴀ ᴡɪᴘ.}}$ 
+$\color{#a9d6ff}{\textsf{- ᴘʟᴢ ᴅᴏ ɴᴏᴛ ꜱᴀʏ ɴᴀꜱᴛʏ ꜱᴛᴜꜰꜰ ɪɴ ᴍʏ ᴀᴛᴀ :( ᴛʏ!}}$ 
+$\color{#a9d6ff}{\textsf{- ɪꜰ ʏᴏᴜ ꜱᴀᴡ ᴀ ᴍᴇꜱꜱᴀɢᴇ ʜᴀᴠᴇ ᴍʏ ɴᴀᴍᴇ ɪɴ}}$ 
+$\color{#a9d6ff}{\textsf{ ꜱᴏᴍᴇᴏɴᴇ'ꜱ ᴀᴛᴀ ꜱᴀʏɪɴɢ ɴᴀꜱᴛʏ ꜱᴛᴜꜰꜰ ᴏʀ}}$ 
+$\color{#a9d6ff}{\textsf{ʙᴇɪɴɢ ᴍᴇᴀɴ. ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴍᴇ.}}$ 
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
 
 <p align="center">
   <img src="https://i.postimg.cc/6pTCtmpM/1785271442944.png" width="40">
