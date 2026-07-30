@@ -15,6 +15,7 @@
 </p>
 
 $\color{#a9d6ff}{\textsf{[ᴍʏ ꜱᴛʀᴀᴡᴘᴀɢᴇ ɪꜱ ꜱᴛɪʟʟ ᴀ ᴡɪᴘ.!]}}$ 
+$\color{#a9d6ff}{\textsf{ᴘʟᴢ ᴅᴏ ɴᴏᴛ ꜱᴀʏ ɴᴀꜱᴛʏ ꜱᴛᴜꜰꜰ ɪɴ ᴍʏ ᴀᴛᴀ :( ᴛʏ!}}$ 
 
 <p align="center">
   <img src="https://i.postimg.cc/6pTCtmpM/1785271442944.png" width="40">
