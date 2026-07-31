@@ -33,7 +33,11 @@ $\color{#a9d6ff}{\textsf{ʙᴇɪɴɢ ᴍᴇᴀɴ. ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴍ�
 [**@𝑝𝑡-𝑐𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑜𝑟𝑠**](https://github.com/pt-contributors) • [**@𝑝𝑡-ℎ𝑎𝑙𝑙-𝑜𝑓-𝑚𝑒𝑑𝑖𝑎**](https://github.com/pt-hall-of-media).•
 [**@𝑝𝑡-𝑤𝑎𝑙𝑘-𝑜𝑓-𝑓𝑎𝑚𝑒**](https://github.com/pt-walk-of-fame)
 
-  ![Badge](https://img.shields.io/badge/HOPE_LEVEL-100%25-a9d6ff?style=for-the-badge&labelColor=2b2b2b) ![Badge](https://img.shields.io/badge/HEROES_SAVED-∞-a9d6ff?style=for-the-badge) ![Badge](https://img.shields.io/badge/LAST_SON_OF-KRYPTON-a9d6ff?style=for-the-badge) 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
+
+![Superman](https://img.shields.io/badge/Superman-1%2C938-a9d6ff?style=flat-square&labelColor=4a4a4a)
+![Hope Level](https://img.shields.io/badge/HOPE%20LEVEL-100%25-a9d6ff?style=flat-square&labelColor=4a4a4a)
+
 <p align="center">
   <img src="https://i.postimg.cc/RFYT1JM6/ezgif-70f329619c41127a.gif" width="100%">
 </p>
