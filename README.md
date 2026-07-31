@@ -30,7 +30,8 @@ $\color{#a9d6ff}{\textsf{ʙᴇɪɴɢ ᴍᴇᴀɴ. ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴍ�
 </p> 
 <p align="center">$\color{#a9d6ff}{\textsf{𝐓𝐡𝐞 𝑪𝒍𝒂𝒓𝒌 𝑲𝒆𝒏𝒕 𝑶𝒇 𝑷𝒐𝒏𝒚𝑻𝒐𝒘𝒏 !}}$   
 
-[**@pt-contributors**](https://github.com/pt-contributors) • [**@pt-hall-of-media**](https://github.com/pt-hall-of-media)
+[**@𝑝𝑡-𝑐𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑜𝑟𝑠**](https://github.com/pt-contributors) • [**@𝑝𝑡-ℎ𝑎𝑙𝑙-𝑜𝑓-𝑚𝑒𝑑𝑖𝑎**](https://github.com/pt-hall-of-media).•
+[**@𝑝𝑡-𝑤𝑎𝑙𝑘-𝑜𝑓-𝑓𝑎𝑚𝑒**](https://github.com/pt-walk-of-fame)
 
   ![Badge](https://img.shields.io/badge/HOPE_LEVEL-100%25-a9d6ff?style=for-the-badge&labelColor=2b2b2b) ![Badge](https://img.shields.io/badge/HEROES_SAVED-∞-a9d6ff?style=for-the-badge) ![Badge](https://img.shields.io/badge/LAST_SON_OF-KRYPTON-a9d6ff?style=for-the-badge) 
 <p align="center">
