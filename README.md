@@ -33,7 +33,11 @@ $\color{#a9d6ff}{\textsf{ʙᴇɪɴɢ ᴍᴇᴀɴ. ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴍ�
 [**@𝑝𝑡-𝑐𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑜𝑟𝑠**](https://github.com/pt-contributors) • [**@𝑝𝑡-ℎ𝑎𝑙𝑙-𝑜𝑓-𝑚𝑒𝑑𝑖𝑎**](https://github.com/pt-hall-of-media).•
 [**@𝑝𝑡-𝑤𝑎𝑙𝑘-𝑜𝑓-𝑓𝑎𝑚𝑒**](https://github.com/pt-walk-of-fame)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
+<p align="center">
+  <img src="https://i.postimg.cc/wjfjr34Q/In-Shot-20260801-005830914.png" width="70">
+  <img src="https://i.postimg.cc/N0KjvYWr/In-Shot-20260801-005210952.png" width="70">
+  <img src="https://i.postimg.cc/8C7zgDqS/In-Shot-20260801-005225327.png" width="70">
+</p>
 
 ![Superman](https://img.shields.io/badge/Superman-1%2C938-a9d6ff?style=flat-square&labelColor=4a4a4a)
 ![Hope Level](https://img.shields.io/badge/HOPE%20LEVEL-100%25-a9d6ff?style=flat-square&labelColor=4a4a4a)
@@ -42,6 +46,7 @@ $\color{#a9d6ff}{\textsf{ʙᴇɪɴɢ ᴍᴇᴀɴ. ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴍ�
   <img src="https://i.postimg.cc/RFYT1JM6/ezgif-70f329619c41127a.gif" width="100%">
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a9d6ff,100:108ec0&height=2&section=header"/>
 
 <p align="center">
   <img src="https://i.postimg.cc/hjNTxF8m/1784967544715.png" width="90%">
