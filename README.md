@@ -31,10 +31,9 @@ $\color{#a9d6ff}{\textsf{ʙᴇɪɴɢ ᴍᴇᴀɴ. ᴛʜɪꜱ ɪꜱ ɴᴏᴛ ᴍ�
 </p> 
 <p align="center">$\color{#a9d6ff}{\textsf{𝐓𝐡𝐞 𝑪𝒍𝒂𝒓𝒌 𝑲𝒆𝒏𝒕 𝑶𝒇 𝑷𝒐𝒏𝒚𝑻𝒐𝒘𝒏 !}}$   
 
-[**@𝑝𝑡-𝑐𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑜𝑟𝑠**](https://github.com/pt-contributors) • [**@𝑝𝑡-ℎ𝑎𝑙𝑙-𝑜𝑓-𝑚𝑒𝑑𝑖𝑎**](https://github.com/pt-hall-of-media).•
+[**@𝑡𝑖𝑡𝑙𝑒-𝑡𝑜𝑤𝑛**](https://github.com/title-town) • [**@𝑝𝑡-ℎ𝑎𝑙𝑙-𝑜𝑓-𝑚𝑒𝑑𝑖𝑎**](https://github.com/pt-hall-of-media).•
 [**@𝑝𝑡-𝑤𝑎𝑙𝑘-𝑜𝑓-𝑓𝑎𝑚𝑒**](https://github.com/pt-walk-of-fame) •
-[**@𝑡𝑖𝑡𝑙𝑒-𝑡𝑜𝑤𝑛**](https://github.com/title-town) •
-[**@𝑝𝑡-𝑜𝑓-𝑎𝑤𝑒𝑠𝑜𝑚𝑒𝑛𝑒𝑠𝑠**](https://github.com/pt-of-awesomeness)•
+[**@𝑝𝑡-𝑜𝑓-𝑎𝑤𝑒𝑠𝑜𝑚𝑒𝑛𝑒𝑠𝑠**](https://github.com/pt-of-awesomeness) •
 
 <p align="center">
   <img src="https://i.postimg.cc/wjfjr34Q/In-Shot-20260801-005830914.png" width="70">
